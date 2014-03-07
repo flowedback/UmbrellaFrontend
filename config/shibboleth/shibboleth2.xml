@@ -8,7 +8,7 @@
 			relayState="ss:mem" handlerSSL="false">
 
 
-			<SSO entityID="https://umbrellaid.org/idp/shibboleth">
+			<SSO entityID="https://umbrellaid.org/idp/shibboleth" ECP="true">
 				SAML2 SAML1
 			</SSO>
 
